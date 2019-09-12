@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{43DC1A0B-E773-46FA-BFEF-07E11CE00233}</ProjectGuid>
+    <ProjectGuid>{D021BC9E-98A5-4922-A246-AA69AC116A32}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>CSharpChallenges</RootNamespace>
-    <AssemblyName>CSharpChallenges</AssemblyName>
+    <RootNamespace>CSharpChallengeWWC1</RootNamespace>
+    <AssemblyName>CSharpChallengeWWC1</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -50,7 +50,7 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Task.txt" />
+    <Content Include="TextFile1.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("CSharpChallenges")]
+[assembly: AssemblyTitle("CSharpChallengeWWC2")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("CSharpChallenges")]
+[assembly: AssemblyProduct("CSharpChallengeWWC2")]
 [assembly: AssemblyCopyright("Copyright ©  2019")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("43dc1a0b-e773-46fa-bfef-07e11ce00233")]
+[assembly: Guid("9d4bc4bf-d981-4cc4-86a9-bf50b72447f1")]
 
 // Version information for an assembly consists of the following four values:
 //

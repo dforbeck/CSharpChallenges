@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CSharpChallenges
+namespace CSharpChallengeWWC1
 {
     class Program
     {
